@@ -108,3 +108,6 @@ F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.pdb
 F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
 F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribeToCustomer.resources
+F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+F:\TestProjects\ASP.netMVC5\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMemberShipTypes.resources
